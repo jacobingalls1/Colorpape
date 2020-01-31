@@ -14,7 +14,7 @@ const string OUTPUT_FILE = "C:\\Users\\Ophiuchus\\Pictures\\wallpaper\\COLORS\\"
 int colorR(0), colorG(0), colorB(0);
 
 vector<string> prefixes;
-// = {"paper", "foily", "cum", "scratchy", "japanese", "strange", "daytime", "watercolor",
+// = {"paper", "foily", "scratchy", "japanese", "strange", "daytime", "watercolor",
 //                                 "oily", "fat", "incredibly", "otherwise", "languishing", "finished", "decent",
 //                                 "soulful", "grounded", "ethical", "immoral", "foolish", "stupid", "immature",
 //                                 "organic", "not", "plastic", "city", "Owen's", "rope", "not very", "strong", "weak"}
